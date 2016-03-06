@@ -41,6 +41,7 @@ Fremmedord, Korrekte danske betegnelse, evt. forklaring
 "Merge", Sammenflet(ning),
 "Mikkel", En type værktøj, nu og da brugt af VVS-mænd
 "Minuscule eller Lowercase letter", Klejntegn,
+"Mutable", Foranderlig,
 "My butt", Skyen,
 "Namespace", Navnerum,
 "Network-attached storage", Netværkstilsluttet datalager,
@@ -55,7 +56,7 @@ Fremmedord, Korrekte danske betegnelse, evt. forklaring
 "Push (changes)", Puf,
 "Quick Response Code eller QR Code", Prikkode,
 "Random Access Memory eller RAM", Arbejdslager,
-"Scope", Virkefelt,
+"Scope", "Virkefelt eller omfang",
 "Screenshot", Skærmbillede,
 "Shell script", Skalprogram,
 "Shift key", Skiftenøgle eller Skiftetast,
